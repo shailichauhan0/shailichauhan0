@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋]
 
-<h1 align="center">Hi 👋, I'm Shaili Chauhan</h1>
+<h1 align="center"> I'm Shaili Chauhan</h1>
 <h3 align="center">I am second year Engineering Student .My major is Computer Science.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/79/48/0e/79480e87d9fcb11532f5fa7100f1644d.gif">
