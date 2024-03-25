@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shailichauhan06052004@gmail.com**
 
-- 😄 Pronouns: She/Her
+  
 
 
 
