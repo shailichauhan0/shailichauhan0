@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailichauhan0&label=Profile%20views&color=0e75b6&style=flat" alt="shailichauhan0" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**.
 
-- 📫 How to reach me **shailichauhan06052004@gmail.com**
+- 📫 How to reach me **shailichauhan06052004@gmail.com**.
 
   
 
